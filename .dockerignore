@@ -1,0 +1,7 @@
+.git
+.github
+__pycache__
+*.pyc
+test_*.py
+metrics.json
+README.md
